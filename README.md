@@ -4,6 +4,12 @@
 
 **▶ 真人大招版：https://trueflies0717.github.io/typhoon/real/**
 
+**▶ 日本語版（台風休み大作戦）：https://trueflies0717.github.io/typhoon/ja/**
+
+**▶ English (Typhoon Day Off): https://trueflies0717.github.io/typhoon/en/**
+
+遊戲內標題畫面可以隨時切換中文／日本語／English。
+
 這個夏天，你能放幾天颱風假？
 
 移動台灣，擦過暴風圈就放颱風假；被颱風眼登陸就結束。撿中央山脈擋一次，還有傳說中的氣象武器。手機、電腦都能玩。
