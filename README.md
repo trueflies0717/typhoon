@@ -1,6 +1,8 @@
 # 颱風假大作戰
 
-**▶ 線上玩：https://trueflies0717.github.io/typhoon/**
+**▶ 線上玩：https://trueflies0717.github.io/typhoon/**（剪影大招版）
+
+**▶ 真人大招版：https://trueflies0717.github.io/typhoon/real/**
 
 這個夏天，你能放幾天颱風假？
 
